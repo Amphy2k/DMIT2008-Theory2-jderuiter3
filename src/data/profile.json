@@ -41,6 +41,11 @@
         "url": "https://www.linkedin.com/in/joshua-de-ruiter/"
       }
     ],
+    "supportLink": {
+      "url": null,
+      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
+      "imageAlt": "Buy Me a Coffee at ko-fi.com"
+    },
     "image": {
       "src": "/me.webp",
       "alt": "memoji of gianmarco"
