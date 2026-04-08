@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Joshua de Ruiter - Jr Developer",
+    "description": "I'm a developer based in Canada, passionate about user experience and specializing in engaging animations and micro-interactions. My primary programs of choice include: JavaScript, HTML/CSS, C#, Flutter, React, and Node.js.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,47 +11,36 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Joshua de Ruiter",
+    "jobTitle": "Computer Software Developer",
+    "worksFor": "Looking for Employment",
+    "location": "Canada",
+    "countryCode": "CA",
+    "nationality": "Canada",
+    "publisherName": "Amphy2k",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/joshua-de-ruiter/",
+      "https://github.com/Amphy2k"
     ]
   },
   "intro": {
-    "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "welcomeLabel": "welcome in",
+    "name": "Joshua de Ruiter",
+    "summary": "a jr software developer looking to get my foot in the door and get coding!",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Amphy2k"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://www.linkedin.com/in/joshua-de-ruiter/"
       }
     ],
-    "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
-      "imageAlt": "Buy Me a Coffee at ko-fi.com"
-    },
     "image": {
       "src": "/me.webp",
       "alt": "memoji of gianmarco"
@@ -59,37 +48,37 @@
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
-    "toolsIntro": "My primary tools of choice includes:",
+    "intro": "Hi, I'm Joshua, a software developer from Canada.",
+    "toolsIntro": "My primary programs of choice include:",
     "tools": [
       "JavaScript",
+      "HTML/CSS",
+      "C#",
+      "Flutter",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Node.js"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "I love exploring new things and doing things I'm passionate about. I have an eye for detail and often find things that don't quite fit or are unoptimal/broken and then fix them.",
+    "approach": "I always look to understand all the details of something first, being confident in the tools required is integral. I then let myself get emmersed in the creation of it often working for bundles of time on that thing until it's perfected."
   },
   "contacts": {
-    "title": "Let's start working together!",
+    "title": "Let's collaborate!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "joshuaderuiter44@icloud.com",
+    "location": "Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/joshua-de-ruiter/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Amphy2k"
       },
       {
         "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://discordapp.com/users/amphy2k"
       }
     ]
   },
