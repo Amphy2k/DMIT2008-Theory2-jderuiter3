@@ -1,6 +1,6 @@
 # Theory 2
 
-> Student Name: **Joshua de Ruiter**
+> Student Name: **Joshua de Ruiter** aka Amphy2k
 
 ![Website Screenshot](./docs/images/finished-project.png)
 
