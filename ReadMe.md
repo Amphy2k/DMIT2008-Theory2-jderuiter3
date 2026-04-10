@@ -2,7 +2,7 @@
 
 > Student Name: **Joshua de Ruiter**
 
-![Website Screenshot](./docs/images/screenshot.png)
+![Website Screenshot](./docs/images/finished-project.png)
 
 In this assignment, you will demonstrate your ability to
 
@@ -107,9 +107,9 @@ A placeholder card has been included in `index.js`. You must replace this with a
 
 > *📍 Make sure to do a commit and push of your code changes at this point.*
 
-## **(2 Marks)** - Update the `ReadMe.md`
+## **(2 Marks)** - Update the `README.md`
 
-Update this `ReadMe.md` with the following information at the top:
+Update this `README.md` with the following information at the top:
 
 - Your full name as well as your GitHub username
 - A screenshot of your deployed website in its final form
